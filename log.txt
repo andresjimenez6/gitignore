@@ -1,0 +1,47 @@
+commit 36ecd66be726b911cfde3fa83dcbde93365d3cc6
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 12:10:04 2025 +0200
+
+    git ignore
+
+commit 56aafe8d774ff5466d2653ea264c79b34828af9d
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 12:09:17 2025 +0200
+
+    pedro sancheee
+
+commit a9b32faab3e872f15e50a8f926d6aff3cad1a6e3
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 12:03:35 2025 +0200
+
+    ignorando repo
+
+commit 27cb6729c86d783c112694ebc931386b30308642
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 12:01:33 2025 +0200
+
+    ignorar private
+
+commit d80ef4f9fc9b6c50d2cf4cf56321e0f5ed2f8316
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 11:57:37 2025 +0200
+
+    primera excepcion
+
+commit f888fa6e769ab6a0bd7db1bf024c9ed85e123e24
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 11:55:34 2025 +0200
+
+    mi primera excepcion
+
+commit 40b2d098c5da0e1a87a9c21baf1de37bb6ae0c54
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 11:47:56 2025 +0200
+
+    añado .gitignore
+
+commit 000d451103cef2848bf2572aefa59aaaddbe8b5d
+Author: EAG <andrescortijo2006@gmail.com>
+Date:   Thu Oct 16 11:12:41 2025 +0200
+
+    gitignore
